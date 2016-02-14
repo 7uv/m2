@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Feb 13 13:10:37 IST 2016
+http\://maven.repository.redhat.com/ga/.error=Could not transfer artifact org.jboss.archetype.wfk\:richfaces-archetype-kitchensink\:pom\:2.7.0.Final from/to redhat-ga-repository (http\://maven.repository.redhat.com/ga/)\: maven.repository.redhat.com
+@default-redhat-ga-repository-http\://maven.repository.redhat.com/ga/.lastUpdated=1455349237000
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1455349224986
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.jboss.archetype.wfk\:richfaces-archetype-kitchensink\:pom\:2.7.0.Final from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
