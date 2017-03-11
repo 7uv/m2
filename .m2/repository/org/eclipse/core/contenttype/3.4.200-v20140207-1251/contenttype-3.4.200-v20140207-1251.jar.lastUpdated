@@ -1,4 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Feb 11 01:25:10 IST 2016
-@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1455134110816
-https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.eclipse.core\:contenttype\:jar\:3.4.200-v20140207-1251 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
